@@ -1,6 +1,6 @@
 
 
-![enter image description here](https://github.com/code-barg/daily-django-tips/blob/main/img/01-model-inheritance.jpeg?raw=true)
+![enter image description here](https://github.com/code-barg/daily-django-tips/blob/data/img/01-model-inheritance.jpeg?raw=true)
 
 <h1 align="center"> ارث بری مدل ها در جنگو - قسمت اول 💡</h1>
 
